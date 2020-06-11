@@ -28,6 +28,10 @@ a {
     text-decoration: none;
     display: inline;
 }
+.grid-container {
+    max-width: 900px;
+    margin: auto;
+}
 /* HEADER SECTION */
 .header-section-icons {
     width: 100%; 
